@@ -9,7 +9,7 @@ ser utilizado para fines de entretenimiento. De  igual forma plantear como reto 
 
 ## 💻 Stack Tecnológico
 
-### Web Development (Full-Stack)
+### Desktop Application Developer
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="efcore" />
