@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alberto 👋
 
-Desarrollador de software con énfasis en la creación de aplicaciones que faciliten determinadas actividades para mejorar el trabajo realizado y 
+Desarrollador de software con énfasis en la creación de aplicaciones que faciliten ciertas actividades para mejorar el trabajo realizado y 
 ser utilizado para fines de entretenimiento. De  igual forma plantear como reto personal el desarrollar algún tipo de software.
 ## 🚀 Sobre mí
 
