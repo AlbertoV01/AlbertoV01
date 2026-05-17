@@ -4,7 +4,7 @@ Desarrollador de software con énfasis en la creación de aplicaciones que facil
 ser utilizado para fines de entretenimiento. De  igual forma plantear como reto personal el desarrollar algún tipo de software.
 ## 🚀 Sobre mí
 
-- 🔭 **Proyecto Actual:** Desarrollando una plataforma de gestión estadística para equipos de béisbol locales utilizando **Blazor**.
+- 🔭 **Proyecto Actual:** ??? **Blazor**.
 
 
 ## 💻 Stack Tecnológico
@@ -29,16 +29,8 @@ ser utilizado para fines de entretenimiento. De  igual forma plantear como reto 
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vs" />
 </p>
 ---
-
-## 📊 Estadísticas de GitHub
-
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlbertoV01&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoV01&layout=compact&theme=radical)
-
----
-
 ## 📫 Contacto
 
 - **LinkedIn:** [https://www.linkedin.com/in/alberto-valenzuela-rivera-2a4b86225/]
-- **Portafolio:** [https://albertov01.github.io/portafolioweb/]
+- **Portafolio:** [https://albertov01.github.io/portafolioV2/]
 - **Ubicación:** 🇲🇽 México
