@@ -28,7 +28,7 @@ ser utilizado para fines de entretenimiento. De  igual forma plantear como reto 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vs" />
 </p>
----
+
 ### 📫 Contacto
 
 - **LinkedIn:** [https://www.linkedin.com/in/alberto-valenzuela-rivera-2a4b86225/]
